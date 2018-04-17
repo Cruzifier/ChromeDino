@@ -4,7 +4,7 @@
 This project represents a basic clone of Chrome's hidden Dino-Game. The project was realized in DirectX with C++.  
 
 # Getting Started
-The preferred operating system is Windows 10, as it is currently being used for development. A development environment, such as Qt Creator or CLion, is needed. 
+The preferred operating system is Windows 10, as it is currently being used for development. 
 
 1.	Install Microsoft Visual Studio 17
 2.	Install Visual Studio Tools for Universal Windows Apps
