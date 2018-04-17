@@ -1,0 +1,10 @@
+﻿  Logic.cpp
+c:\users\d.bouraba\downloads\dinosaur-master\dinosaur\logic.cpp(89): warning C4244: "Argument": Konvertierung von "const double" in "const float", möglicher Datenverlust
+c:\users\d.bouraba\downloads\dinosaur-master\dinosaur\logic.cpp(96): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+  ChromeDino.cpp
+  Code wird generiert...
+  Überspringen... (keine relevanten Änderungen gefunden)
+  Player.cpp
+  Main.cpp
+  CactusFactory.cpp
+  Dinosaur.vcxproj -> C:\Users\d.bouraba\Downloads\Dinosaur-master\Dinosaur\Debug\ChromeDino.exe
